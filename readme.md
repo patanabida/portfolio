@@ -5,4 +5,4 @@
 ### More About Masai School:[link](https://www.masaischool.com/)
 
 ###
-- 👨‍💻 All of my projects are available at [link](https://patanabida.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio](https://patanabida.github.io/portfolio/)
