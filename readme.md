@@ -10,4 +10,4 @@
 ## Contact to me
 - [email](patanabida1106@gmail.com)
 - [linkedIn](https://www.linkedin.com/in/patan-abida/)
-- [phone]:9100215153
+- [phone](9100215153) : 9100215153
