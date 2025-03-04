@@ -6,3 +6,7 @@
 
 ###
 - 👨‍💻 All of my projects are available at [portfolio](https://patanabida.github.io/portfolio/)
+
+## Contact to me
+- [email](patanabida1106@gmail.com)
+- [linkedIn](https://www.linkedin.com/in/patan-abida/)
